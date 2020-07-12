@@ -15,3 +15,6 @@
 :point_right: Python 
 
 <!-- section - skills -->
+# Thank you 
+
+Thanks for reading about me. You can connect with me on ..
