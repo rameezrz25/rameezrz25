@@ -17,4 +17,6 @@
 <!-- section - skills -->
 # Thank you 
 
-Thanks for reading about me. You can connect with me on ..
+### Thanks for reading about me. You can connect with me on..
+
+:e-mail: rameezrz25@gmail.com
